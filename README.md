@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## See the Demo here:
 
-https://trevor2494.github.io/the-office
+https://trevor2492.github.io/the-office/
 
 ## Available Scripts
 
